@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//hahahaha
+//hahahaha master
 int main()
 {
 	cout<<"hello world"<<endl;
